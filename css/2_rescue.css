@@ -1083,8 +1083,10 @@ main{
     }
     .sub2_1 h2{
         font-size:1.25rem;
-        padding-bottom:3%;
-        padding-right:3%;
+        padding-bottom:20px;
+        padding-right:0%;
+        width:80%;
+        margin:0 auto;
     }
     .sub2_1 p{
         font-size:1rem;

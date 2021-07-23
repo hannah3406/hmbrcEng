@@ -289,7 +289,7 @@ main{
     width:60px; height:60px;
     border-radius: 30px;
     transition:1s;
-    background:url(../img/btn-top2.png) no-repeat center center;
+    background:url(../img/btn-top.png) no-repeat center center;
     display:none;
 }
 .top.active{display:block;}
